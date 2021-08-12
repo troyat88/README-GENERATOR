@@ -5,38 +5,39 @@ const fs = require('fs');
 // Template for README
 
 function generateREADME(answers) {
+
    return `# ${answers.title}
-    by ${answers.author}
+by ${answers.author}
 
-    ## Description
-    ${answers.description}
+## Description
+${answers.description}
 
-    ## Table of contents
-    [Installation](#Installation)
-    [Usage](#Usage)
-    [License](#License)
-    [Contributing](#Contributing)
-    [Tests](#Tests)
+## Table of contents
+[Installation](#Installation)
+[Usage](#Usage)
+[License](#License)
+[Contributing](#Contributing)
+[Tests](#Tests)
     
-    ## Installation
-    ${answers.install}
+## Installation
+${answers.install}
     
-    ## Usage
-    ${answers.usage}
+## Usage
+${answers.usage}
     
-    ## Contributing
-    ${answers.contribute}
+## Contributing
+${answers.contribute}
     
-    ## Tests
-    ${answers.test}
+## Tests
+${answers.test}
     
-    ## License
-    [MIT](https://choosealicense.com/licenses/mit/)
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
-    ## Questions
-    ${answers.github}
-    ${answers.email}`;
-  }
+## Questions
+${answers.github}
+${answers.email}`;
+}
 
 // ARRAY OF PROMPTS FOR USER INPUT TO README
 inquirer

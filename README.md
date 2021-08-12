@@ -1,31 +1,31 @@
-# readme gen
-    by troy atkinson
+# README GEN
+by Troy Atkinson
 
-    ## Description
-    generates a readme
+## Description
+fsgfgfdgfdgfd
 
-    ## Table of contents
-    [Installation](#Installation)
-    [Usage](#Usage)
-    [License](#License)
-    [Contributing](#Contributing)
-    [Tests](#Tests)
+## Table of contents
+[Installation](#Installation)
+[Usage](#Usage)
+[License](#License)
+[Contributing](#Contributing)
+[Tests](#Tests)
     
-    ## Installation
-    undefined
+## Installation
+undefined
     
-    ## Usage
-    answer questions
+## Usage
+gfdgfdgfdgfdg
     
-    ## Contributing
-    fork and commit
+## Contributing
+gfdgfdgfdgfdg
     
-    ## Tests
-    none 
+## Tests
+gfdgfdgfdgfd
     
-    ## License
-    [MIT](https://choosealicense.com/licenses/mit/)
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
-    ## Questions
-    troyat
-    troyat@gmail.com
+## Questions
+gfdgfdgdfgfd
+gfdgfdgfdgfd
