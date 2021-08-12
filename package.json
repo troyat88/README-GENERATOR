@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Homework Week 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troyat88/README-GENERATOR.git"
+  },
+  "author": "Troy Atkinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troyat88/README-GENERATOR/issues"
+  },
+  "homepage": "https://github.com/troyat88/README-GENERATOR#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
