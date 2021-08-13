@@ -35,8 +35,8 @@ ${answers.test}
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Questions
-${answers.github}
-${answers.email}`;
+https://github.com/${answers.github}
+If you have any questions or recommendations please contact me at ${answers.email}`;
 }
 
 // ARRAY OF PROMPTS FOR USER INPUT TO README
@@ -59,8 +59,8 @@ inquirer
     },
     {
       type: 'input',
-      name: 'intstall',
-      message: 'How can someone install this application',
+      name: 'install',
+      message: 'How can someone install this application?',
     },
     {
       type: 'input',

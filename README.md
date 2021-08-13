@@ -1,8 +1,8 @@
-# README GEN
-by Troy Atkinson
+# TROY
+by TRoy
 
 ## Description
-fsgfgfdgfdgfd
+TRoy
 
 ## Table of contents
 [Installation](#Installation)
@@ -15,17 +15,17 @@ fsgfgfdgfdgfd
 undefined
     
 ## Usage
-gfdgfdgfdgfdg
+toy
     
 ## Contributing
-gfdgfdgfdgfdg
+troy
     
 ## Tests
-gfdgfdgfdgfd
+troy
     
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Questions
-gfdgfdgdfgfd
-gfdgfdgfdgfd
+https://github.com/troyat88
+If you have any questions or recommendations please contact me at troyat88
