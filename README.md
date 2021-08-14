@@ -1,32 +1,32 @@
-# Readme Generator
+# Readme Generator 
 by Troy Atkinson
 
 ## Description
-Creates a quality README for user to post on GitHub
+Creates a readme for user to post on GitHub
 
 ## Table of contents
-[Installation](#Installation)
-[Usage](#Usage)
-[License](#License)
-[Contributing](#Contributing)
-[Tests](#Tests)
+*[Installation](#Installation)
+*[Usage](#Usage)
+*[License](#License)
+*[Contributing](#Contributing)
+*[Tests](#Tests)
     
 ## Installation
-Intall from GitHub
+Clone from GitHub
 
     
 ## Usage
-Complete prompts to generate file
+Answer prompts and program will generate README 
     
 ## Contributing
-fork repo, commit remote, open merge request
+Fork, commit from remote branch, open merge request
     
 ## Tests
-none
+none 
     
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Questions
 https://github.com/troyat88
-If you have any questions or recommendations please contact me at troyat88@hotmail.com
+If you have any questions or recommendations please contact me at troyat99@gmail.com

@@ -13,11 +13,11 @@ by ${answers.author}
 ${answers.description}
 
 ## Table of contents
-[Installation](#Installation)
-[Usage](#Usage)
-[License](#License)
-[Contributing](#Contributing)
-[Tests](#Tests)
+*[Installation](#Installation)
+*[Usage](#Usage)
+*[License](#License)
+*[Contributing](#Contributing)
+*[Tests](#Tests)
     
 ## Installation
 ${answers.install}
