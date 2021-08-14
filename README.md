@@ -1,8 +1,8 @@
-# TROY
-by TRoy
+# Node Generator
+by Troy Atkinson
 
 ## Description
-TRoy
+Generates a README file for Github
 
 ## Table of contents
 [Installation](#Installation)
@@ -12,20 +12,21 @@ TRoy
 [Tests](#Tests)
     
 ## Installation
-undefined
+Install from Github
+
     
 ## Usage
-toy
+answer prompts, Generator will create file when done
     
 ## Contributing
-troy
+Fork Repo, Commit from remote branch
     
 ## Tests
-troy
+Test as needed
     
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Questions
 https://github.com/troyat88
-If you have any questions or recommendations please contact me at troyat88
+If you have any questions or recommendations please contact me at troyat88@gmail.com
