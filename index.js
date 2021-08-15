@@ -14,11 +14,11 @@ by ${answers.author}
 ${answers.description}
 
 ## Table of contents
-*[Installation](#Installation)  
-*[Usage](#Usage)  
-*[License](#License)  
-*[Contributing](#Contributing)  
-*[Tests](#Tests)  
+[Installation](#Installation)  
+[Usage](#Usage)  
+[License](#License)  
+[Contributing](#Contributing)  
+[Tests](#Tests)  
     
 ## Installation
 ${answers.install}
@@ -34,10 +34,10 @@ ${answers.contribute}
 ${answers.test}
     
 ## License
-NOTICE: This application is issed and used under provisions established by the [${answers.license}](https://choosealicense.com/licenses/${answers.license}/) licensing.
+NOTICE: This application is issed and used under provisions established by [${answers.license}](https://choosealicense.com/licenses/${answers.license}/) licensing.
 
 ## Questions
-https://github.com/${answers.github}
+Contact the author: https://github.com/${answers.github}
 If you have any questions or recommendations please contact me at ${answers.email}`;
 }
 

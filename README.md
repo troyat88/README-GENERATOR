@@ -1,33 +1,33 @@
 # README GENERATOR
-![License](https://img.shields.io/badge/License-MIT-brightgreen)   
+![License](https://img.shields.io/badge/License-ISC-brightgreen)   
 by Troy Atkinson
 
 ## Description
-Created a README for user to add in their GitHub repo
+Creates a README
 
 ## Table of contents
-*[Installation](#Installation)  
-*[Usage](#Usage)  
-*[License](#License)  
-*[Contributing](#Contributing)  
-*[Tests](#Tests)  
+[Installation](#Installation)  
+[Usage](#Usage)  
+[License](#License)  
+[Contributing](#Contributing)  
+[Tests](#Tests)  
     
 ## Installation
-clone from github, add to repo needing README
+Clone from github into file that needs README
 
     
 ## Usage
-Answer the prompts
+Answer the promts
     
 ## Contributing
-Create remote repo, submit pull request with detailed notes
+submit pull requests
     
 ## Tests
-NONE
+none
     
 ## License
-NOTICE: This application is issed and used under provisions established by the [MIT](https://choosealicense.com/licenses/MIT/) licensing.
+NOTICE: This application is issed and used under provisions established by [ISC](https://choosealicense.com/licenses/ISC/) licensing.
 
 ## Questions
-https://github.com/troyat88
+Contact the author: https://github.com/troyat88
 If you have any questions or recommendations please contact me at troyat88
