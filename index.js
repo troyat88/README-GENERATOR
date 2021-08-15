@@ -7,17 +7,18 @@ const fs = require('fs');
 function generateREADME(answers) {
 
    return `# ${answers.title}
+![License](https://img.shields.io/badge/License-${answers.license}-brightgreen)   
 by ${answers.author}
 
 ## Description
 ${answers.description}
 
 ## Table of contents
-*[Installation](#Installation)
-*[Usage](#Usage)
-*[License](#License)
-*[Contributing](#Contributing)
-*[Tests](#Tests)
+*[Installation](#Installation)  
+*[Usage](#Usage)  
+*[License](#License)  
+*[Contributing](#Contributing)  
+*[Tests](#Tests)  
     
 ## Installation
 ${answers.install}
@@ -33,7 +34,7 @@ ${answers.contribute}
 ${answers.test}
     
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+NOTICE: This application is issed and used under provisions established by the [${answers.license}](https://choosealicense.com/licenses/${answers.license}/) licensing.
 
 ## Questions
 https://github.com/${answers.github}
@@ -87,6 +88,12 @@ inquirer
         type: 'input',
         name: 'email',
         message: 'What is your email?',
+    },
+    {
+      type: 'checkbox',
+      message: 'What type of license will you assign your project? ',
+      name: 'license',
+      choices: ['MIT', 'ISC', 'apache-2.0'],
     },
   ])
   .then((answers) => {
