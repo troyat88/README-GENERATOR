@@ -2,12 +2,12 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-// Template for README
+// MARKUP TEMPLATE FOR README.md WHERE USER RESPONSES ARE USED
 
 function generateREADME(answers) {
 
-   return `# ${answers.title}
-![License](https://img.shields.io/badge/License-${answers.license}-brightgreen)   
+return `# ${answers.title} ![License](https://img.shields.io/badge/License-${answers.license}-brightgreen)
+   
 by ${answers.author}
 
 ## Description
@@ -34,14 +34,14 @@ ${answers.contribute}
 ${answers.test}
     
 ## License
-NOTICE: This application is issed and used under provisions established by [${answers.license}](https://choosealicense.com/licenses/${answers.license}/) licensing.
+NOTICE: This application is issued and used under provisions established by [${answers.license}](https://choosealicense.com/licenses/${answers.license}/) licensing.
 
 ## Questions
-Contact the author: https://github.com/${answers.github}
-If you have any questions or recommendations please contact me at ${answers.email}`;
+Contact the author: https://github.com/${answers.github}  
+If you have any questions or recommendations please contact ${answers.author} at ${answers.email}`;
 }
 
-// ARRAY OF PROMPTS FOR USER INPUT TO README
+// ARRAY OF PROMPTS FOR USER INPUT, TO BE USED IN README MARKUP ABOVE
 inquirer
   .prompt([
     {
