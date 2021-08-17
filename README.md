@@ -34,7 +34,7 @@ Answer prompts to generate a quality README for your project
 ```bash
 node index.js // to run program
 ```
-![Example](/assests/READMEExample.gif)
+![Example](assets/READMEExample.gif)
 
     
 ## Contributing
