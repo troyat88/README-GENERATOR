@@ -14,10 +14,28 @@ Creates a README file for users project repository
     
 ## Installation
 Clone repo from GitHub into project needing README
+```bash
+git clone https://github.com/troyat88/README-GENERATOR.git
+```
+Initialize repository for node
+```bash
+npm init
+```
+install node package named inquirer
+```bash
+npm i inquirer
+```
 
     
 ## Usage
 Answer prompts to generate a quality README for your project
+*Navigate to index.js in command line
+*Run Program
+```bash
+node index.js // to run program
+```
+![Example](assests/READMEExample.gif)
+
     
 ## Contributing
 Fork and commit from a remote repo, Submit detailed pull request
