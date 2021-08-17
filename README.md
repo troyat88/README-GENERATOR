@@ -28,9 +28,9 @@ npm i inquirer
 
     
 ## Usage
-Answer prompts to generate a quality README for your project
-*Navigate to index.js in command line. 
-*Run Program. 
+Answer prompts to generate a quality README for your project.
+* Navigate to index.js in command line. 
+* Run Program. 
 ```bash
 node index.js // to run program
 ```
