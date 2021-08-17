@@ -32,4 +32,3 @@ NOTICE: This application is issued and used under provisions established by [ISC
 Contact the author: https://github.com/troyat88  
 If you have any questions or recommendations please contact Troy Atkinson at troyat88@gmail.com
 
-![example](assets/READMEExample.gif)
